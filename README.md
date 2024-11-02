@@ -1,0 +1,1 @@
+## patika c#101 odev1 soru2 cozumu
